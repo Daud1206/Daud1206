@@ -1,5 +1,7 @@
-## Hi there! I'm Daud 👋
-![Daud](img/github-header.png)
+<p align="center">
+  <img src="img/github-header.png" alt="Daud" />
+</p>
+
 
 ##### Skills
 <p align="center">
